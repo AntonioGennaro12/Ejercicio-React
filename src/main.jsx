@@ -5,6 +5,12 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <App/>
+    {/*
+    <h1>Hola!</h1>
+    <img src="" alt="mi-img" />
+    <button>Botón</button>
+    <input type="text" name="Texto" id="mi-texto" />
+    */}
   </React.StrictMode>,
 )
